@@ -1,0 +1,26 @@
+C:\Users\Novi Nurhayati\Documents\Visual Studio 2008\Projects\Client Test\Client Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Novi Nurhayati\Documents\Visual Studio 2008\Projects\Client Test\Client Test\obj\Debug\Client_Test.Form1.resources
+C:\Users\Novi Nurhayati\Documents\Visual Studio 2008\Projects\Client Test\Client Test\obj\Debug\Client_Test.Properties.Resources.resources
+C:\Users\Novi Nurhayati\Documents\Visual Studio 2008\Projects\Client Test\Client Test\obj\Debug\Client Test.csproj.GenerateResource.Cache
+C:\Users\Novi Nurhayati\Documents\Visual Studio 2008\Projects\Client Test\Client Test\bin\Debug\Client Test.exe
+C:\Users\Novi Nurhayati\Documents\Visual Studio 2008\Projects\Client Test\Client Test\bin\Debug\Client Test.pdb
+C:\Users\Novi Nurhayati\Documents\Visual Studio 2008\Projects\Client Test\Client Test\obj\Debug\Client Test.exe
+C:\Users\Novi Nurhayati\Documents\Visual Studio 2008\Projects\Client Test\Client Test\obj\Debug\Client Test.pdb
+C:\Users\Novi Nurhayati\Documents\Visual Studio 2008\Projects\Client Test\Client Test\bin\Debug\btCommLibNet.dll
+C:\Users\Novi Nurhayati\Documents\Visual Studio 2008\Projects\Client Test\Client Test\bin\Debug\btLibDefNet1.2.dll
+C:\Users\Novi Nurhayati\Documents\Visual Studio 2008\Projects\Client Test\Client Test\bin\Debug\btScanLibNet.dll
+C:\Users\Novi Nurhayati\Documents\Visual Studio 2008\Projects\Client Test\Client Test\bin\Debug\btSysLibNet.dll
+C:\Users\Novi Nurhayati\Documents\Visual Studio 2008\Projects\Client Test\Client Test\bin\Debug\BTW.dll
+D:\INFINITI\DEV\Client Test\Client Test\Client Test\bin\Debug\Client Test.exe
+D:\INFINITI\DEV\Client Test\Client Test\Client Test\bin\Debug\Client Test.pdb
+D:\INFINITI\DEV\Client Test\Client Test\Client Test\bin\Debug\btCommLibNet.dll
+D:\INFINITI\DEV\Client Test\Client Test\Client Test\bin\Debug\btLibDefNet1.2.dll
+D:\INFINITI\DEV\Client Test\Client Test\Client Test\bin\Debug\btScanLibNet.dll
+D:\INFINITI\DEV\Client Test\Client Test\Client Test\bin\Debug\btSysLibNet.dll
+D:\INFINITI\DEV\Client Test\Client Test\Client Test\bin\Debug\BTW.dll
+D:\INFINITI\DEV\Client Test\Client Test\Client Test\obj\Debug\ResolveAssemblyReference.cache
+D:\INFINITI\DEV\Client Test\Client Test\Client Test\obj\Debug\Client_Test.Form1.resources
+D:\INFINITI\DEV\Client Test\Client Test\Client Test\obj\Debug\Client_Test.Properties.Resources.resources
+D:\INFINITI\DEV\Client Test\Client Test\Client Test\obj\Debug\Client Test.csproj.GenerateResource.Cache
+D:\INFINITI\DEV\Client Test\Client Test\Client Test\obj\Debug\Client Test.exe
+D:\INFINITI\DEV\Client Test\Client Test\Client Test\obj\Debug\Client Test.pdb
